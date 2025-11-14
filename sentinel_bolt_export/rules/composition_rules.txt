@@ -1,0 +1,2 @@
+Sentinel Phase 4.8 — Component Composition Rules
+(Condensed for reference; full detail preserved in JSON files.)

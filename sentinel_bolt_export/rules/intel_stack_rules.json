@@ -1,0 +1,11 @@
+{
+  "width": 440,
+  "padding": 16,
+  "card_spacing": 12,
+  "scroll": "vertical_only",
+  "cards": [
+    "entity",
+    "prediction",
+    "reasoning"
+  ]
+}

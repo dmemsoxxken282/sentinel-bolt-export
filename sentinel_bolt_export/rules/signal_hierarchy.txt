@@ -1,0 +1,10 @@
+Sentinel Phase 4.7 — Elevation & Signal Hierarchy (Option C)
+
+Layer Stack (Z-index):
+0 Base Map
+10 Map Overlays
+20 Entities
+30 Sentinel Cues
+40 Alerts
+50 UI Shell + Panels
+100 Critical Overlays

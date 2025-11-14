@@ -1,0 +1,32 @@
+{
+  "layers": [
+    {
+      "name": "base_map",
+      "z": 0
+    },
+    {
+      "name": "map_overlays",
+      "z": 10
+    },
+    {
+      "name": "entities",
+      "z": 20
+    },
+    {
+      "name": "sentinel_cues",
+      "z": 30
+    },
+    {
+      "name": "alerts",
+      "z": 40
+    },
+    {
+      "name": "ui_shell",
+      "z": 50
+    },
+    {
+      "name": "critical_overlays",
+      "z": 100
+    }
+  ]
+}

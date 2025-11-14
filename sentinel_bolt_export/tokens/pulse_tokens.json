@@ -1,0 +1,14 @@
+{
+  "pulse": {
+    "none": null,
+    "slow": {
+      "duration": 1.5
+    },
+    "medium": {
+      "duration": 1.0
+    },
+    "fast": {
+      "duration": 0.6
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "screen_regions": {
+    "map_left_pct": 70,
+    "intel_right_pct": 30,
+    "bottom_drawer_height_collapsed": 72,
+    "bottom_drawer_height_expanded": [
+      320,
+      420
+    ],
+    "safe_area": 48
+  }
+}

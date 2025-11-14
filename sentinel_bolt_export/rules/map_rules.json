@@ -1,0 +1,18 @@
+{
+  "grid": {
+    "columns": 12,
+    "spacing_unit": 8
+  },
+  "overlay_spacing_min": 16,
+  "label_padding": 8,
+  "cluster_threshold": 4,
+  "cue_anchors": [
+    "UL",
+    "UR"
+  ],
+  "alert_positions": {
+    "high": "top_center",
+    "medium": "top_right",
+    "low": "bottom_left"
+  }
+}

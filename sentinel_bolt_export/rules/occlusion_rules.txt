@@ -1,0 +1,5 @@
+Occlusion Rules:
+- Alerts cannot be occluded.
+- Entities never hide entities; reduce opacity or increase glow.
+- Panels reduce opacity of map behind them instead of covering objects.
+- Cues avoid covering operator focus.

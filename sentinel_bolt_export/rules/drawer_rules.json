@@ -1,0 +1,11 @@
+{
+  "collapsed_height": 72,
+  "padding": 16,
+  "row_spacing": 12,
+  "blocks": [
+    "context",
+    "assessment",
+    "action",
+    "risk"
+  ]
+}

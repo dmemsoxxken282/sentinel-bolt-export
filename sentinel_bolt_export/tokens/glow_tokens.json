@@ -1,0 +1,24 @@
+{
+  "glow": {
+    "none": {
+      "size": 0,
+      "opacity": 0
+    },
+    "low": {
+      "size": 4,
+      "opacity": 0.2
+    },
+    "med": {
+      "size": 8,
+      "opacity": 0.35
+    },
+    "high": {
+      "size": 12,
+      "opacity": 0.6
+    },
+    "critical": {
+      "size": 16,
+      "opacity": 0.85
+    }
+  }
+}

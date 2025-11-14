@@ -1,0 +1,10 @@
+{
+  "max_drones": 3,
+  "anchor_offset_range": [
+    64,
+    96
+  ],
+  "expanded_detail_only_one": true,
+  "color_coding": "per_drone",
+  "avoid_overlap": "shift_on_arc"
+}
